@@ -1,0 +1,9 @@
+# android/ dibuat otomatis oleh GitHub Actions (lihat build-apk.yml)
+android/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+.idea/
+*.iml
